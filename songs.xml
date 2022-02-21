@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE songliste SYSTEM "songs.dtd">
+<?xsl-stylesheet type="text/xsl" href="songs.xsl"?>
+<songliste>
+    <song>
+        <cover>img/tageslicht.jpg</cover>
+        <titel>Tageslicht</titel>
+        <interpret>RAF Camora, Ufo361, The </interpret>
+        <laufzeit>2:53</laufzeit>
+        <erschienen>18 February 2022</erschienen>
+        <link>https://open.spotify.com/track/2c5CLmXwJ4V0IIqJ6B68gq?si=2f1663ebea7d447c</link>
+    </song>
+    <song>
+        <cover>img/frankfurterTor.jpg</cover>
+        <titel>9PM Frankfurter Tor</titel>
+        <interpret>Souly</interpret>
+        <laufzeit>2:04</laufzeit>
+        <erschienen>29 April 2020</erschienen>
+        <link>https://open.spotify.com/track/18gKZQ0ij5W7cLrKYalQB4?si=49d31149cd984d77</link>
+    </song>
+    <song>
+        <cover>img/liebeslieder.jpg</cover>
+        <titel>Liebeslieder</titel>
+        <interpret>Bausa</interpret>
+        <laufzeit>3:10</laufzeit>
+        <erschienen>21 June 2019</erschienen>
+        <link>https://open.spotify.com/track/0IBj1HIiYb9f7wseY4OPxm?si=effec1174aee4d19</link>
+    </song>
+    <song>
+        <cover>img/medusa.jpg</cover>
+        <titel>Medusa</titel>
+        <interpret>Bausa</interpret>
+        <laufzeit>3:42</laufzeit>
+        <erschienen>21 April 2017</erschienen>
+        <link>https://open.spotify.com/track/5MC33nfOHU4jGw0L0YfCml?si=347e93474d524061</link>
+    </song>
+    <song>
+        <cover>img/greygoose.jpg</cover>
+        <titel>Grey Goose</titel>
+        <interpret>Bozza, Bausa</interpret>
+        <laufzeit>3:35</laufzeit>
+        <erschienen>21 January 2022</erschienen>
+        <link>https://open.spotify.com/track/0jsGBnwk6LMD3GzonQbnT9?si=f88b7f08ebc44146</link>
+    </song>
+</songliste>
