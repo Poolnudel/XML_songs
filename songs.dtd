@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE songliste [
-<!ELEMENT songliste (cover,titel,interpret,laufzeit,erschienen,link)>
+<!ELEMENT songliste (song*)>
+<!ELEMENT song (cover,titel,interpret,laufzeit,erschienen,link)>
 <!ELEMENT cover (#PCDATA)>
 <!ELEMENT titel (#PCDATA)>
 <!ELEMENT interpret (#PCDATA)>
 <!ELEMENT laufzeit (#PCDATA)>
 <!ELEMENT erschienen (#PCDATA)>
 <!ELEMENT link (#PCDATA)>
-]>

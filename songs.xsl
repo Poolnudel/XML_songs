@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <xsl:stylesheet version="1.0" xmlns:xsl="https://www.w3.org/1999/XSL/transform">
 <xsl:template match="songliste">
 <html>
@@ -55,7 +56,7 @@
                 <th>Erschienen</th>
                 <th>Link</th>
             </tr>
-            <xsl:for-each select="songliste/song">
+            <xsl:for-each select="song">
                 <tr>
                     <td>
                         <!-- <xsl:value-of select="cover"/> -->
